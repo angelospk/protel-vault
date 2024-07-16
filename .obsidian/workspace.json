@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c44e6ed5a69b4b76",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "db3ecae1ad861eb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounts Receivable.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ]
@@ -150,33 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c44e6ed5a69b4b76",
+  "active": "db3ecae1ad861eb6",
   "lastOpenFiles": [
-    "Accounts Receivable old.md",
-    "Accounts Receivable.md",
-    "Untitled.md",
-    "Guest Profile Management Category.md",
-    "Arrivals Report.md",
-    "Untitled 1.md",
-    "Guest Profile Overview.md",
-    "Future.md",
-    "Untitled 13.md",
+    "Working with Windows.md",
+    "Working with Tables.md",
+    "Word Processor.md",
+    "Welcome.md",
+    "Wake-up Call Management.md",
+    "Vouchers.md",
+    "Voiding a Posted Article or Charge.md",
+    "User-Defined Values - Day Month.md",
+    "User Settings.md",
+    "User Logoff.md",
+    "Travel Agent Reservation.md",
+    "Transferring to a Different Partial Invoice.md",
+    "Traces Report.md",
     "The Reservation Dialog Box.md",
-    "History.md",
-    "Letters.md",
-    "Report Groups.md",
-    "Favorites.md",
-    "Recently Viewed Reports.md",
-    "Untitled 14.md",
-    "Editing Reports.md",
-    "Getting Started with protel Front Office.md",
-    "Untitled 12.md",
-    "Reports and Analysis.md",
-    "Add-Ons.md",
+    "The Navigator.md",
+    "System Data.md",
     "System Administration.md",
-    "Office Functions.md",
-    "Housekeeping and Maintenance.md",
-    "Untitled 11.md",
-    "Untitled 10.md"
+    "Sticky Notes.md",
+    "SQL Editor.md",
+    "Source Reservation.md",
+    "Sharer Reservation.md",
+    "Selecting Multiple Items.md",
+    "Searching Guest Profiles.md",
+    "Search Bar.md",
+    "Sales Enquiry (F11).md",
+    "Rooms Out of Service.md"
   ]
 }
