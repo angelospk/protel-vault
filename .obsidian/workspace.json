@@ -11,9 +11,17 @@
             "id": "c44e6ed5a69b4b76",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "db3ecae1ad861eb6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrivals Report.md",
+                "file": "Accounts Receivable.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrivals Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrivals Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +130,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Arrivals Report.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +152,12 @@
   },
   "active": "c44e6ed5a69b4b76",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Accounts Receivable old.md",
+    "Accounts Receivable.md",
     "Untitled.md",
+    "Guest Profile Management Category.md",
+    "Arrivals Report.md",
+    "Untitled 1.md",
     "Guest Profile Overview.md",
     "Future.md",
     "Untitled 13.md",
@@ -168,10 +177,6 @@
     "Office Functions.md",
     "Housekeeping and Maintenance.md",
     "Untitled 11.md",
-    "Untitled 10.md",
-    "Untitled 7.md",
-    "Invoicing and Payments.md",
-    "Untitled 9.md",
-    "Batch Invoices (SQL only).md"
+    "Untitled 10.md"
   ]
 }
