@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6921174ab944d3f5",
+        "id": "7589fe871892c222",
         "type": "tabs",
         "children": [
           {
-            "id": "db3ecae1ad861eb6",
+            "id": "81b326f4f99508f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Room Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Room Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Room Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Room Plan.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +145,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db3ecae1ad861eb6",
+  "active": "81b326f4f99508f7",
   "lastOpenFiles": [
+    "Room Plan (F3).md",
+    "Room Plan.md",
+    "Untitled.md",
+    "index.md",
     "Working with Windows.md",
     "Working with Tables.md",
     "Word Processor.md",
@@ -169,10 +172,6 @@
     "SQL Editor.md",
     "Source Reservation.md",
     "Sharer Reservation.md",
-    "Selecting Multiple Items.md",
-    "Searching Guest Profiles.md",
-    "Search Bar.md",
-    "Sales Enquiry (F11).md",
-    "Rooms Out of Service.md"
+    "Selecting Multiple Items.md"
   ]
 }
