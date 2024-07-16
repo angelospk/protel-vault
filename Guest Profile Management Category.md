@@ -1,0 +1,35 @@
+# Guest Profile Management
+
+This category explains how to work with guest profiles in protel Front Office, covering topics like creating new profiles, searching for existing profiles, managing profile details, and utilizing the various tabs and features within guest profiles. 
+
+## Notes in this Category:
+
+* [[Guest Profile Overview]]
+* [[Searching Guest Profiles]]
+* [[Creating a New Guest Profile]]
+* [[Guest Profile Tabs]]
+* [[Address]]
+* [[Personal Data]]
+* [[Requests]]
+* [[Revenue]]
+* [[Marketing]]
+* [[Rates]]
+* [[Accounts Receivable]]
+* [[Master]]
+* [[Commissions]]
+* [[Future]]
+* [[History]]
+* [[Letters]]
+* [[Family]]
+* [[Invoices]]
+* [[Photos]]
+* [[Traces History]]
+* [[PCI Compliance]]
+* [[My Profiles (SPE & MPE only)]]
+* [[File Export/Mail Merge]]
+* [[Mail Merge History]]
+* [[Headquarter Link]]
+* [[Profile Maintenance]]
+* [[protel Match & Merge]]
+* [[MS Outlook Synchronization]]
+* [[Import MS Outlook Email]]
