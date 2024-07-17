@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Room Plan.md",
+                "file": "Room Type Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Room Plan.md",
+                "file": "Room Type Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Room Plan.md",
+                "file": "Room Type Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Room Plan.md"
+                "file": "Room Type Plan.md"
               }
             }
           }
@@ -147,8 +147,10 @@
   },
   "active": "81b326f4f99508f7",
   "lastOpenFiles": [
-    "Room Plan (F3).md",
+    "Room Type Plan (F2).md",
+    "Room Type Plan.md",
     "Room Plan.md",
+    "Room Plan (F3).md",
     "Untitled.md",
     "index.md",
     "Working with Windows.md",
@@ -170,8 +172,6 @@
     "System Administration.md",
     "Sticky Notes.md",
     "SQL Editor.md",
-    "Source Reservation.md",
-    "Sharer Reservation.md",
-    "Selecting Multiple Items.md"
+    "Source Reservation.md"
   ]
 }
